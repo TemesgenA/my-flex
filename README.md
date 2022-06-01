@@ -20,7 +20,7 @@ To get a local copy up and running follow these simple example steps.
 - Install VS Code editor
 - Install a web brawser
 - Run the following command n the terminal
-    git clone git@github.com:TemesgenA/my-flex.git
+  `git clone git@github.com:TemesgenA/my-flex.git`
 
 ### Author
 
