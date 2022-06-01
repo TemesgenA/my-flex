@@ -1,40 +1,26 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# My Flexbox
 
-# Project Name
-
-> Description the project.
-
+> This is a flexbox tutorial repository.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- HTML
+- CSS
+- Flexbox
+- Linters
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- Code editor
+- Web browser
 
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- Install VS Code editor
+- Install a web brawser
+- Run the following command n the terminal:
+`git clone git@github.com:TemesgenA/my-flex.git`
 
 ### Author
 
@@ -57,6 +43,8 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
+- WesBos YouTube channel was used during the preparation of this repository
+  *(https://www.youtube.com/c/WesBos)*
 
 
 ## 📝 License
