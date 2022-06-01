@@ -54,3 +54,9 @@
 .box10 {
   background-color: hotpink;
 }
+
+.container {
+  display:flex;
+  border: 10px solid goldenrod;
+  flex-direction: column;
+}
